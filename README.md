@@ -1,2 +1,2 @@
-# Study-Python-2
-## 파이썬 공부과정-2
+# Study-Python(2)
+파이썬 학습과정(2)
